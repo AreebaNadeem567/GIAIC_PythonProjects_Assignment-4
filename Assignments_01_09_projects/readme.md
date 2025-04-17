@@ -95,8 +95,4 @@ To run any project, follow these steps:
 Feel free to improve or extend these projects. Contributions are welcome!
 
 ---
-
-## 📧 Contact
-For any questions, reach out at **subhankaladi@gmail.com**.
-
 Happy Coding! 🚀
